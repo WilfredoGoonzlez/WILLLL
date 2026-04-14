@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonzl\\Desktop\\ETAPA_DE_INFORMARSE_TERCERO\\PRUEBA_GIITTTTTTTTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B2E2B6-B9E0-43BF-B9C2-4453E02678C4}|PRUEBA_GIITTTTTTTTT\\PRUEBA_GIITTTTTTTTT.csproj|c:\\users\\gonzl\\desktop\\etapa_de_informarse_tercero\\prueba_giittttttttt\\prueba_giittttttttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B2E2B6-B9E0-43BF-B9C2-4453E02678C4}|PRUEBA_GIITTTTTTTTT\\PRUEBA_GIITTTTTTTTT.csproj|solutionrelative:prueba_giittttttttt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonzl\\Desktop\\ETAPA_DE_INFORMARSE_TERCERO\\PRUEBA_GIITTTTTTTTT\\PRUEBA_GIITTTTTTTTT\\Program.cs",
+              "RelativeDocumentMoniker": "PRUEBA_GIITTTTTTTTT\\Program.cs",
+              "ToolTip": "C:\\Users\\gonzl\\Desktop\\ETAPA_DE_INFORMARSE_TERCERO\\PRUEBA_GIITTTTTTTTT\\PRUEBA_GIITTTTTTTTT\\Program.cs",
+              "RelativeToolTip": "PRUEBA_GIITTTTTTTTT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T15:47:58.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
