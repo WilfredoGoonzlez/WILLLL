@@ -11,6 +11,7 @@ namespace PRUEBA_GIITTTTTTTTT
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("¿Cómo estás?");
         }
     }
 }
